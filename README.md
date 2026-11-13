@@ -137,7 +137,7 @@ mindmap
       <p><b>Crowd-safety AI</b></p>
       <sub>Warns guards about dangerous crowds<br>from CCTV: people/m², flow, stagnation<br>Python · YOLO · OpenCV · FastAPI<br>Next.js · Docker</sub>
       <br><br>
-      <a href="https://github.com/sanjardev23/sumteo"><img src="https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/sanjardevx/sumteo"><img src="https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td align="center" width="25%" valign="top">
       <h3>✨ K-Glow</h3>
@@ -158,7 +158,7 @@ mindmap
 
 ## 📊 GitHub Activity
 
-<img src="https://streak-stats.demolab.com/?user=sanjardev23&theme=radical&hide_border=true&background=0D1117" alt="GitHub streak" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=sanjardevx&theme=radical&hide_border=true&background=0D1117" alt="GitHub streak" width="70%" />
 
 </div>
 
@@ -169,5 +169,5 @@ mindmap
 
 <a href="https://www.linkedin.com/in/sanjar-kurbonaliyev-9bbb77309"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" /></a>
 <a href="mailto:mksanjar04@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail" /></a>
-<a href="https://github.com/sanjardev23"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=24292e&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GitHub" /></a>
+<a href="https://github.com/sanjardevx"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=24292e&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GitHub" /></a>
 
