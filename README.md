@@ -90,10 +90,10 @@ mindmap
 ```diff
 @@  Right Now  @@
 + Senior CSE @ Sejong University
-+ Building Campusly (school LMS)
 + Capstone: Physical AI scene understanding
 
 @@  Shipped  @@
++ SeniorFriends backend: App Store + Google Play
 + School LMS: campusly.uz (Vercel + AWS)
 + K-beauty e-commerce store: live
 + LLM language verifier (team of 7)
@@ -117,28 +117,34 @@ mindmap
 <table>
   <tr>
     <td align="center" width="25%" valign="top">
+      <h3>🤝 SeniorFriends</h3>
+      <p><b>Community app · live in Korea</b></p>
+      <sub>Senior community + live streams<br>On App Store &amp; Google Play<br><b>I built the backend</b><br>React Native · Expo · Supabase<br>Agora · RevenueCat · NHN KCP</sub>
+      <br><br>
+      <a href="https://apps.apple.com/kr/app/seniorfriends/id6814237033"><img src="https://img.shields.io/badge/iOS-0D96F6?style=for-the-badge&logo=apple&logoColor=white" /></a>
+      <a href="https://play.google.com/store/apps/details?id=com.seniorfriends.app"><img src="https://img.shields.io/badge/Android-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+      <br><sub><a href="https://seniorfriends.io">seniorfriends.io</a></sub>
+    </td>
+    <td align="center" width="25%" valign="top">
       <h3>🏫 Campusly</h3>
       <p><b>School LMS</b></p>
-      <sub>Students · teachers · parents<br>Homework, quizzes, grades, video<br>NestJS · GraphQL · Prisma · Next.js</sub>
+      <sub>Teachers · students · parents<br>Homework · quizzes · AI tutor<br>NestJS · GraphQL · Prisma<br>PostgreSQL · Redis · Next.js<br>Docker · AWS</sub>
       <br><br>
-      <a href="https://campusly.uz"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://campusly.uz"><img src="https://img.shields.io/badge/Live_Demo-1F4E43?style=for-the-badge&logoColor=white" /></a>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>🫁 숨터 Sumteo</h3>
+      <p><b>Crowd-safety AI</b></p>
+      <sub>Warns guards about dangerous crowds<br>from CCTV: people/m², flow, stagnation<br>Python · YOLO · OpenCV · FastAPI<br>Next.js · Docker</sub>
+      <br><br>
+      <a href="https://github.com/sanjardev23/sumteo"><img src="https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td align="center" width="25%" valign="top">
       <h3>✨ K-Glow</h3>
-      <p><b>K-Beauty E-Commerce</b></p>
-      <sub>Shop · cart · orders · reviews<br>Customer SPA + SSR admin panel<br>React · Redux · Express · MongoDB</sub>
+      <p><b>K-Beauty e-commerce</b></p>
+      <sub>Korean cosmetics shop<br>with an admin panel<br>Node.js · TypeScript · Express<br>MongoDB · React · Redux Toolkit<br>Cloudinary</sub>
       <br><br>
-      <a href="https://k-glow-react.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <h3>🤖 Physical AI</h3>
-      <p><b>Capstone · Team of 7</b></p>
-      <sub>RGB-D camera → 3D scene graph<br>I built the LLM language verifier<br>Python · Ollama · Qwen · pytest</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <h3>🍔 Menu Detector</h3>
-      <p><b>Computer Vision</b></p>
-      <sub>Fine-tuned MobileNetV2<br>Multi-food dataset · 94% accuracy<br>PyTorch · OpenCV · Colab</sub>
+      <a href="https://www.kglowshop.uz"><img src="https://img.shields.io/badge/Live_Shop-000000?style=for-the-badge&logoColor=white" /></a>
     </td>
   </tr>
 </table>
