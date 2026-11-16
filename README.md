@@ -100,7 +100,7 @@ mindmap
 + Food image classifier: 94% accuracy
 
 ! Clean code · Good UX · Shipped
-# Open to internships & collaboration 🤝
+# Open to Full-Stack & AI Engineer roles 🤝
 ```
 
 </td>
