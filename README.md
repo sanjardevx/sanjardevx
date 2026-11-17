@@ -22,26 +22,36 @@
 
 <sub>Hover over an icon to see its name.</sub>
 
-**🎨 Frontend**<br>
-<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/html.svg" title="HTML5" alt="HTML5" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/css.svg" title="CSS3" alt="CSS3" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/sass.svg" title="Sass" alt="Sass" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/bootstrap.svg" title="Bootstrap" alt="Bootstrap" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/tailwindcss-dark.svg" title="Tailwind CSS" alt="Tailwind CSS" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/javascript.svg" title="JavaScript" alt="JavaScript" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/typescript.svg" title="TypeScript" alt="TypeScript" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/react-dark.svg" title="React" alt="React" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/nextjs-dark.svg" title="Next.js" alt="Next.js" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/redux.svg" title="Redux Toolkit" alt="Redux Toolkit" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/materialui-dark.svg" title="Material UI" alt="Material UI" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/styledcomponents.svg" title="Styled Components" alt="Styled Components" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/vite-dark.svg" title="Vite" alt="Vite" height="40" />
-
-**⚙️ Backend**<br>
-<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/nodejs-dark.svg" title="Node.js" alt="Node.js" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/expressjs-dark.svg" title="Express" alt="Express" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/nestjs-dark.svg" title="NestJS" alt="NestJS" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/graphql-dark.svg" title="GraphQL" alt="GraphQL" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/apollo.svg" title="Apollo GraphQL" alt="Apollo GraphQL" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/socketio-dark.svg" title="Socket.io" alt="Socket.io" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/python-dark.svg" title="Python" alt="Python" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/fastapi.svg" title="FastAPI" alt="FastAPI" height="40" />
-
-**🗄️ Databases**<br>
-<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/mongodb.svg" title="MongoDB" alt="MongoDB" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/postgresql-dark.svg" title="PostgreSQL" alt="PostgreSQL" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/prisma.svg" title="Prisma" alt="Prisma" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/redis-dark.svg" title="Redis" alt="Redis" height="40" />
-
-**☁️ Cloud & DevOps**<br>
-<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/aws-dark.svg" title="AWS" alt="AWS" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/s3-dark.svg" title="Amazon S3" alt="Amazon S3" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/docker.svg" title="Docker" alt="Docker" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/pm2-dark.svg" title="PM2" alt="PM2" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/linux-dark.svg" title="Linux" alt="Linux" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/vercel-dark.svg" title="Vercel" alt="Vercel" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/githubactions-dark.svg" title="GitHub Actions" alt="GitHub Actions" height="40" />
-
-**🧰 Tools & AI Assistants**<br>
-<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/vscode-dark.svg" title="VS Code" alt="VS Code" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/cursor-dark.svg" title="Cursor" alt="Cursor" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/claude-dark.svg" title="Claude API · Claude Code" alt="Claude API · Claude Code" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/chatgpt-dark.svg" title="OpenAI API · Codex" alt="OpenAI API · Codex" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/postman.svg" title="Postman" alt="Postman" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/git-dark.svg" title="Git" alt="Git" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/github-dark.svg" title="GitHub" alt="GitHub" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/bash-dark.svg" title="Bash" alt="Bash" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/npm-dark.svg" title="npm" alt="npm" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/yarn-dark.svg" title="Yarn" alt="Yarn" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/pnpm-dark.svg" title="pnpm" alt="pnpm" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/figma-dark.svg" title="Figma" alt="Figma" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/vitest-dark.svg" title="Vitest" alt="Vitest" height="40" />
-
-**🧠 AI & Machine Learning**<br>
-<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/numpy-dark.svg" title="NumPy" alt="NumPy" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/pandas-dark.svg" title="pandas" alt="pandas" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/matplotlib-dark.svg" title="Matplotlib" alt="Matplotlib" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/pytorch-dark.svg" title="PyTorch" alt="PyTorch" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/opencv-dark.svg" title="OpenCV" alt="OpenCV" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/jupyter-dark.svg" title="Jupyter" alt="Jupyter" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/googlecolab-dark.svg" title="Google Colab" alt="Google Colab" height="40" />
-
-**🌱 Currently Learning**<br>
-<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/tensorflow-dark.svg" title="TensorFlow" alt="TensorFlow" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/scikitlearn-dark.svg" title="scikit-learn" alt="scikit-learn" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/mysql-dark.svg" title="MySQL" alt="MySQL" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/firebase-dark.svg" title="Firebase" alt="Firebase" height="40" />
+<table>
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/html.svg" title="HTML5" alt="HTML5" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/css.svg" title="CSS3" alt="CSS3" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/sass.svg" title="Sass" alt="Sass" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/bootstrap.svg" title="Bootstrap" alt="Bootstrap" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/tailwindcss-dark.svg" title="Tailwind CSS" alt="Tailwind CSS" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/javascript.svg" title="JavaScript" alt="JavaScript" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/typescript.svg" title="TypeScript" alt="TypeScript" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/react-dark.svg" title="React" alt="React" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/nextjs-dark.svg" title="Next.js" alt="Next.js" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/redux.svg" title="Redux Toolkit" alt="Redux Toolkit" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/materialui-dark.svg" title="Material UI" alt="Material UI" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/styledcomponents.svg" title="Styled Components" alt="Styled Components" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/vite-dark.svg" title="Vite" alt="Vite" height="36" /></td>
+</tr>
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/nodejs-dark.svg" title="Node.js" alt="Node.js" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/expressjs-dark.svg" title="Express" alt="Express" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/nestjs-dark.svg" title="NestJS" alt="NestJS" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/graphql-dark.svg" title="GraphQL" alt="GraphQL" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/apollo.svg" title="Apollo GraphQL" alt="Apollo GraphQL" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/socketio-dark.svg" title="Socket.io" alt="Socket.io" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/python-dark.svg" title="Python" alt="Python" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/fastapi.svg" title="FastAPI" alt="FastAPI" height="36" /></td>
+</tr>
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/mongodb.svg" title="MongoDB" alt="MongoDB" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/postgresql-dark.svg" title="PostgreSQL" alt="PostgreSQL" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/prisma.svg" title="Prisma" alt="Prisma" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/redis-dark.svg" title="Redis" alt="Redis" height="36" /></td>
+</tr>
+<tr>
+<td><b>☁️ Cloud & DevOps</b></td>
+<td><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/aws-dark.svg" title="AWS" alt="AWS" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/s3-dark.svg" title="Amazon S3" alt="Amazon S3" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/docker.svg" title="Docker" alt="Docker" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/pm2-dark.svg" title="PM2" alt="PM2" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/linux-dark.svg" title="Linux" alt="Linux" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/vercel-dark.svg" title="Vercel" alt="Vercel" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/githubactions-dark.svg" title="GitHub Actions" alt="GitHub Actions" height="36" /></td>
+</tr>
+<tr>
+<td><b>🧰 Tools & AI Assistants</b></td>
+<td><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/vscode-dark.svg" title="VS Code" alt="VS Code" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/cursor-dark.svg" title="Cursor" alt="Cursor" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/claude-dark.svg" title="Claude API · Claude Code" alt="Claude API · Claude Code" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/chatgpt-dark.svg" title="OpenAI API · Codex" alt="OpenAI API · Codex" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/postman.svg" title="Postman" alt="Postman" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/git-dark.svg" title="Git" alt="Git" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/github-dark.svg" title="GitHub" alt="GitHub" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/bash-dark.svg" title="Bash" alt="Bash" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/npm-dark.svg" title="npm" alt="npm" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/yarn-dark.svg" title="Yarn" alt="Yarn" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/pnpm-dark.svg" title="pnpm" alt="pnpm" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/figma-dark.svg" title="Figma" alt="Figma" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/vitest-dark.svg" title="Vitest" alt="Vitest" height="36" /></td>
+</tr>
+<tr>
+<td><b>🧠 AI & Machine Learning</b></td>
+<td><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/numpy-dark.svg" title="NumPy" alt="NumPy" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/pandas-dark.svg" title="pandas" alt="pandas" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/matplotlib-dark.svg" title="Matplotlib" alt="Matplotlib" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/pytorch-dark.svg" title="PyTorch" alt="PyTorch" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/opencv-dark.svg" title="OpenCV" alt="OpenCV" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/jupyter-dark.svg" title="Jupyter" alt="Jupyter" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/googlecolab-dark.svg" title="Google Colab" alt="Google Colab" height="36" /></td>
+</tr>
+<tr>
+<td><b>🌱 Currently Learning</b></td>
+<td><img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/tensorflow-dark.svg" title="TensorFlow" alt="TensorFlow" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/scikitlearn-dark.svg" title="scikit-learn" alt="scikit-learn" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/mysql-dark.svg" title="MySQL" alt="MySQL" height="36" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@1c213fa/assets/firebase-dark.svg" title="Firebase" alt="Firebase" height="36" /></td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -115,53 +125,46 @@ mindmap
 
 ## 🚀 Featured Projects
 
-### 🌐 Live Products
-
 <table>
   <tr>
-    <td align="center" width="33%" valign="top">
-      <h3>🤝 SeniorFriends</h3>
-      <p><b>Community app · live in Korea</b></p>
-      <sub>Senior community + live streams<br>On App Store &amp; Google Play<br>React Native · Expo · Supabase<br>Agora · RevenueCat · NHN KCP</sub>
-      <br><br>
-      <a href="https://apps.apple.com/kr/app/seniorfriends/id6814237033"><img src="https://img.shields.io/badge/iOS-0D96F6?style=for-the-badge&logo=apple&logoColor=white" /></a>
-      <a href="https://play.google.com/store/apps/details?id=com.seniorfriends.app"><img src="https://img.shields.io/badge/Android-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
-      <br><sub><a href="https://seniorfriends.io">seniorfriends.io</a></sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>🏫 Campusly</h3>
-      <p><b>School LMS</b></p>
-      <sub>Teachers · students · parents<br>Homework · quizzes · AI tutor<br>NestJS · GraphQL · Prisma<br>PostgreSQL · Redis · Next.js<br>Docker · AWS</sub>
-      <br><br>
-      <a href="https://campusly.uz"><img src="https://img.shields.io/badge/Live_Demo-1F4E43?style=for-the-badge&logoColor=white" /></a>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>✨ K-Glow</h3>
-      <p><b>K-Beauty e-commerce</b></p>
-      <sub>Korean cosmetics shop<br>with an admin panel<br>Node.js · TypeScript · Express<br>MongoDB · React · Redux Toolkit<br>Cloudinary</sub>
-      <br><br>
-      <a href="https://www.kglowshop.uz"><img src="https://img.shields.io/badge/Live_Shop-000000?style=for-the-badge&logoColor=white" /></a>
-    </td>
+    <th colspan="3">🌐 Live Products</th>
+    <th colspan="2">🤖 AI Projects</th>
   </tr>
-</table>
-
-### 🤖 AI Projects
-
-<table>
   <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>🫁 숨터 Sumteo</h3>
-      <p><b>Crowd-safety AI</b></p>
-      <sub>Warns guards about dangerous crowds<br>from CCTV: people/m², flow, stagnation<br>Python · YOLO · OpenCV · FastAPI<br>Next.js · Docker</sub>
-      <br><br>
-      <a href="https://github.com/sanjardevx/sumteo"><img src="https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <td align="center" width="20%" valign="top">
+      <h3>🤝 <a href="https://seniorfriends.io">SeniorFriends</a></h3>
+      <b>Senior models app</b><br><br>
+      <sub>Profiles · videos · events<br>live streams · community</sub><br><br>
+      <sub><i>React Native · Expo<br>Supabase · Agora</i></sub><br><br>
+      <a href="https://apps.apple.com/kr/app/seniorfriends/id6814237033"><img src="https://img.shields.io/badge/iOS-0D96F6?style=for-the-badge&logo=apple&logoColor=white" height="24" /></a> <a href="https://play.google.com/store/apps/details?id=com.seniorfriends.app"><img src="https://img.shields.io/badge/Android-414141?style=for-the-badge&logo=googleplay&logoColor=white" height="24" /></a>
     </td>
-    <td align="center" width="50%" valign="top">
-      <h3>🧠 NeuroLens</h3>
-      <p><b>Brain tumor MRI AI</b></p>
-      <sub>Classifies the MRI scan, shows<br>where the AI looked, outlines the tumor<br>99% accuracy<br>PyTorch · ONNX · FastAPI</sub>
-      <br><br>
-      <a href="https://github.com/sanjardevx/neurolens"><img src="https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <td align="center" width="20%" valign="top">
+      <h3>🏫 <a href="https://campusly.uz">Campusly</a></h3>
+      <b>School LMS</b><br><br>
+      <sub>Homework · quizzes<br>AI tutor</sub><br><br>
+      <sub><i>NestJS · GraphQL<br>Next.js · AWS</i></sub><br><br>
+      <a href="https://campusly.uz"><img src="https://img.shields.io/badge/Live_Demo-1F4E43?style=for-the-badge" height="24" /></a>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <h3>✨ <a href="https://www.kglowshop.uz">K-Glow</a></h3>
+      <b>K-beauty shop</b><br><br>
+      <sub>Cosmetics store<br>AI skin advisor</sub><br><br>
+      <sub><i>Node.js · Express<br>React · MongoDB</i></sub><br><br>
+      <a href="https://www.kglowshop.uz"><img src="https://img.shields.io/badge/Live_Shop-000000?style=for-the-badge" height="24" /></a>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <h3>🫁 <a href="https://github.com/sanjardevx/sumteo">Sumteo</a></h3>
+      <b>Crowd-safety AI</b><br><br>
+      <sub>Crowd danger alerts<br>from CCTV</sub><br><br>
+      <sub><i>YOLO · OpenCV<br>FastAPI · Next.js</i></sub><br><br>
+      <a href="https://github.com/sanjardevx/sumteo"><img src="https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white" height="24" /></a>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <h3>🧠 <a href="https://github.com/sanjardevx/neurolens">NeuroLens</a></h3>
+      <b>Brain tumor MRI AI</b><br><br>
+      <sub>Tumor type + location<br>99% accuracy</sub><br><br>
+      <sub><i>PyTorch · ONNX<br>FastAPI</i></sub><br><br>
+      <a href="https://github.com/sanjardevx/neurolens"><img src="https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white" height="24" /></a>
     </td>
   </tr>
 </table>
