@@ -132,39 +132,44 @@ mindmap
   </tr>
   <tr>
     <td align="center" width="20%" valign="top">
-      <h3>🤝 <a href="https://seniorfriends.io">SeniorFriends</a></h3>
-      <b>Senior models app</b><br><br>
-      <sub>Profiles · videos · events<br>live streams · community</sub><br><br>
+      <h3>🤝</h3>
+      <b><a href="https://seniorfriends.io">SeniorFriends</a></b><br>
+      <sub><b>Senior models app</b></sub><br><br>
+      <sub>Model profiles<br>videos · live streams<br>events · community</sub><br><br>
       <sub><i>React Native · Expo<br>Supabase · Agora</i></sub><br><br>
-      <a href="https://apps.apple.com/kr/app/seniorfriends/id6814237033"><img src="https://img.shields.io/badge/iOS-0D96F6?style=for-the-badge&logo=apple&logoColor=white" height="24" /></a> <a href="https://play.google.com/store/apps/details?id=com.seniorfriends.app"><img src="https://img.shields.io/badge/Android-414141?style=for-the-badge&logo=googleplay&logoColor=white" height="24" /></a>
+      <a href="https://apps.apple.com/kr/app/seniorfriends/id6814237033"><img src="https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.seniorfriends.app"><img src="https://img.shields.io/badge/Android-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
     </td>
     <td align="center" width="20%" valign="top">
-      <h3>🏫 <a href="https://campusly.uz">Campusly</a></h3>
-      <b>School LMS</b><br><br>
-      <sub>Homework · quizzes<br>AI tutor</sub><br><br>
+      <h3>🏫</h3>
+      <b><a href="https://campusly.uz">Campusly</a></b><br>
+      <sub><b>School LMS</b></sub><br><br>
+      <sub>Teachers · students<br>parents · homework<br>AI tutor (RAG)</sub><br><br>
       <sub><i>NestJS · GraphQL<br>Next.js · AWS</i></sub><br><br>
-      <a href="https://campusly.uz"><img src="https://img.shields.io/badge/Live_Demo-1F4E43?style=for-the-badge" height="24" /></a>
+      <a href="https://campusly.uz"><img src="https://img.shields.io/badge/Live_Demo-1F4E43?style=flat-square" /></a>
     </td>
     <td align="center" width="20%" valign="top">
-      <h3>✨ <a href="https://www.kglowshop.uz">K-Glow</a></h3>
-      <b>K-beauty shop</b><br><br>
-      <sub>Cosmetics store<br>AI skin advisor</sub><br><br>
+      <h3>✨</h3>
+      <b><a href="https://www.kglowshop.uz">K-Glow</a></b><br>
+      <sub><b>K-beauty shop</b></sub><br><br>
+      <sub>Korean cosmetics<br>online store<br>AI skin advisor</sub><br><br>
       <sub><i>Node.js · Express<br>React · MongoDB</i></sub><br><br>
-      <a href="https://www.kglowshop.uz"><img src="https://img.shields.io/badge/Live_Shop-000000?style=for-the-badge" height="24" /></a>
+      <a href="https://www.kglowshop.uz"><img src="https://img.shields.io/badge/Live_Shop-000000?style=flat-square" /></a>
     </td>
     <td align="center" width="20%" valign="top">
-      <h3>🫁 <a href="https://github.com/sanjardevx/sumteo">Sumteo</a></h3>
-      <b>Crowd-safety AI</b><br><br>
-      <sub>Crowd danger alerts<br>from CCTV</sub><br><br>
+      <h3>🫁</h3>
+      <b><a href="https://github.com/sanjardevx/sumteo">Sumteo</a></b><br>
+      <sub><b>Crowd-safety AI</b></sub><br><br>
+      <sub>Crowd danger alerts<br>from CCTV cameras<br>for security staff</sub><br><br>
       <sub><i>YOLO · OpenCV<br>FastAPI · Next.js</i></sub><br><br>
-      <a href="https://github.com/sanjardevx/sumteo"><img src="https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white" height="24" /></a>
+      <a href="https://github.com/sanjardevx/sumteo"><img src="https://img.shields.io/badge/Code-24292e?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
     <td align="center" width="20%" valign="top">
-      <h3>🧠 <a href="https://github.com/sanjardevx/neurolens">NeuroLens</a></h3>
-      <b>Brain tumor MRI AI</b><br><br>
-      <sub>Tumor type + location<br>99% accuracy</sub><br><br>
+      <h3>🧠</h3>
+      <b><a href="https://github.com/sanjardevx/neurolens">NeuroLens</a></b><br>
+      <sub><b>Brain tumor MRI AI</b></sub><br><br>
+      <sub>Tumor type + area<br>Grad-CAM heatmaps<br>99% accuracy</sub><br><br>
       <sub><i>PyTorch · ONNX<br>FastAPI</i></sub><br><br>
-      <a href="https://github.com/sanjardevx/neurolens"><img src="https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white" height="24" /></a>
+      <a href="https://github.com/sanjardevx/neurolens"><img src="https://img.shields.io/badge/Code-24292e?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
