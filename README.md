@@ -115,9 +115,11 @@ mindmap
 
 ## 🚀 Featured Projects
 
+### 🌐 Live Products
+
 <table>
   <tr>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="33%" valign="top">
       <h3>🤝 SeniorFriends</h3>
       <p><b>Community app · live in Korea</b></p>
       <sub>Senior community + live streams<br>On App Store &amp; Google Play<br>React Native · Expo · Supabase<br>Agora · RevenueCat · NHN KCP</sub>
@@ -126,28 +128,35 @@ mindmap
       <a href="https://play.google.com/store/apps/details?id=com.seniorfriends.app"><img src="https://img.shields.io/badge/Android-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
       <br><sub><a href="https://seniorfriends.io">seniorfriends.io</a></sub>
     </td>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="33%" valign="top">
       <h3>🏫 Campusly</h3>
       <p><b>School LMS</b></p>
       <sub>Teachers · students · parents<br>Homework · quizzes · AI tutor<br>NestJS · GraphQL · Prisma<br>PostgreSQL · Redis · Next.js<br>Docker · AWS</sub>
       <br><br>
       <a href="https://campusly.uz"><img src="https://img.shields.io/badge/Live_Demo-1F4E43?style=for-the-badge&logoColor=white" /></a>
     </td>
-    <td align="center" width="20%" valign="top">
-      <h3>🫁 숨터 Sumteo</h3>
-      <p><b>Crowd-safety AI</b></p>
-      <sub>Warns guards about dangerous crowds<br>from CCTV: people/m², flow, stagnation<br>Python · YOLO · OpenCV · FastAPI<br>Next.js · Docker</sub>
-      <br><br>
-      <a href="https://github.com/sanjardevx/sumteo"><img src="https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="33%" valign="top">
       <h3>✨ K-Glow</h3>
       <p><b>K-Beauty e-commerce</b></p>
       <sub>Korean cosmetics shop<br>with an admin panel<br>Node.js · TypeScript · Express<br>MongoDB · React · Redux Toolkit<br>Cloudinary</sub>
       <br><br>
       <a href="https://www.kglowshop.uz"><img src="https://img.shields.io/badge/Live_Shop-000000?style=for-the-badge&logoColor=white" /></a>
     </td>
-    <td align="center" width="20%" valign="top">
+  </tr>
+</table>
+
+### 🤖 AI Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🫁 숨터 Sumteo</h3>
+      <p><b>Crowd-safety AI</b></p>
+      <sub>Warns guards about dangerous crowds<br>from CCTV: people/m², flow, stagnation<br>Python · YOLO · OpenCV · FastAPI<br>Next.js · Docker</sub>
+      <br><br>
+      <a href="https://github.com/sanjardevx/sumteo"><img src="https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td align="center" width="50%" valign="top">
       <h3>🧠 NeuroLens</h3>
       <p><b>Brain tumor MRI AI</b></p>
       <sub>Classifies the MRI scan, shows<br>where the AI looked, outlines the tumor<br>99% accuracy<br>PyTorch · ONNX · FastAPI</sub>
@@ -176,6 +185,8 @@ mindmap
 ## Feel free to drop me a line 📬
 
 <a href="https://www.linkedin.com/in/sanjar-kurbonaliyev-9bbb77309"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" /></a>
-<a href="mailto:sanjardevx@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanjardevx@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail" /></a>
 <a href="https://github.com/sanjardevx"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=24292e&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GitHub" /></a>
+
+📧 <b>sanjardevx@gmail.com</b>
 
